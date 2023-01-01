@@ -9,6 +9,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "bootstrap": "3",
     "browserify": "^17.0.0",
     "jasmine": "^4.5.0",
     "karma": "^6.4.1",
